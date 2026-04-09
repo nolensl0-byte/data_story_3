@@ -20,3 +20,6 @@ fig:unnamed-chunk-6
 fig:unnamed-chunk-7
 sdg-13-climate-action-1
 conclusion
+introduction-1
+sdg-1-no-poverty-1
+conclusion-1
