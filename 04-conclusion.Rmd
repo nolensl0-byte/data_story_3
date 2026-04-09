@@ -1,9 +1,3 @@
----
-title: "Soph's new chapter"
-author: "Sophie Nolen"
-date: "2026-03-31"
-output: html_document
----
 
 # Conclusion
 
