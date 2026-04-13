@@ -1,3 +1,32 @@
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
+University of Maryland Extension. 2025 Aug 13. Sustainable gardening: solutions to climate change [Internet]. College Park (MD): University of Maryland Extension [accessed 2026 Apr 13]. Available from: https://extension.umd.edu/resource/sustainable-gardening-solutions-climate-change/
+
+Bassett M. 2014. Growing roots: gardening as a means to mitigate urban poverty and its symptoms [Internet]. New York (NY): Fordham University; [accessed 2026 Apr 13]. Available from: https://research.library.fordham.edu/cgi/viewcontent.cgi?article=1018&context=environ_2014
+
+The Wilderness Society. 2022 Oct 21. 5 stories of people impacted by climate change and inspired to take action [Internet]. Washington (DC): The Wilderness Society; [accessed 2026 Apr 13]. Available from: https://www.wilderness.org/articles/blog/5-stories-people-impacted-climate-change-and-inspired-take-action
+
+United States Environmental Protection Agency (EPA). 2026 Jan. What you can do about climate change [Internet]. Washington (DC): EPA; [accessed 2026 Apr 13]. Available from: https://www.epa.gov/climate-change/what-you-can-do-about-climate-change
+
+The Global Goals. 2024. Goal 13: Climate action [Internet]. New York (NY): United Nations; [accessed 2026 Apr 13]. Available from: https://www.globalgoals.org/goals/13-climate-action/
+
+United Nations. n.d. Goal 1: No poverty [Internet]. New York (NY): United Nations Department of Economic and Social Affairs; [accessed 2026 Apr 13]. Available from: https://sdgs.un.org/goals/goal1#overview
+
+World Bank. 2026 Mar 20. Food security update [Internet]. Washington (DC): World Bank Group; [accessed 2026 Apr 13]. Available from: https://www.worldbank.org/en/topic/agriculture/brief/food-security-update
+
+Latimer E. 2023 Apr 12. I’m fighting food inflation with extreme couponing [Internet]. Toronto (ON): Maclean’s; [accessed 2026 Apr 13]. Available from: https://macleans.ca/food-insecurity/food-insecurity-inflation-groceries/
+
+United Nations Development Programme (UNDP). n.d. Sustainable Development Goals [Internet]. New York (NY): United Nations Development Programme; [accessed 2026 Apr 13]. Available from: https://www.undp.org/sustainable-development-goals
+
+
+
+
+
+
+
+
+
+
+
+
